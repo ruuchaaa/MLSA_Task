@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <div
       style={{
-        position: "fixed",
+        position: "fixed", 
         display: "flex",
         justifyContent: "center",
         gap: "2rem",
